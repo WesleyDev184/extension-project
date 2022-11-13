@@ -1,2 +1,2 @@
 # extension-project
-ccomp agronomy extension project.
+science computing and agronomy extension project.
